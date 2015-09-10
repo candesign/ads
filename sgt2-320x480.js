@@ -9,24 +9,24 @@ lib.properties = {
 	fps: 25,
 	color: "#FFFFFF",
 	manifest: [
-		{src:"images/_57.png", id:"_57"},
-		{src:"images/arr.png", id:"arr"},
-		{src:"images/bgr_300x600.jpg", id:"bgr_300x600"},
-		{src:"images/cta.png", id:"cta"},
-		{src:"images/disc.png", id:"disc"},
-		{src:"images/ladowanie.png", id:"ladowanie"},
-		{src:"images/loader.jpg", id:"loader"},
-		{src:"images/next_is_now.png", id:"next_is_now"},
-		{src:"images/next_is_now_black.png", id:"next_is_now_black"},
-		{src:"images/packshot_l.png", id:"packshot_l"},
-		{src:"images/phone_blank_all.png", id:"phone_blank_all"},
-		{src:"images/s6_black.png", id:"s6_black"},
-		{src:"images/s6_white.png", id:"s6_white"},
-		{src:"images/samsung_black.png", id:"samsung_black"},
-		{src:"images/samsung_white.png", id:"samsung_white"}
+		{src:"http://eu2.madsone.com/c/a8c11a4afc7f2945ed7e48c993500ca1180c7efa.8318971441.png", id:"_57"},
+		{src:"http://eu2.madsone.com/c/5e3bd7b5e8f884232025075e47e27fd7517ce2de.4618971441.png", id:"arr"},
+		{src:"http://eu2.madsone.com/c/e8d75ced692c19299b59c2cb54efbfaa15569485.9818971441.jpg", id:"bgr_300x600"},
+		{src:"http://eu2.madsone.com/c/8e6281b85f6c3e133b9c68066c98b3fe9165be5f.4328971441.png", id:"cta"},
+		{src:"http://eu2.madsone.com/c/91d9974ad044e10e2afc837ffe11a1638933848f.4528971441.png", id:"disc"},
+		{src:"http://eu2.madsone.com/c/5ca42202b9260ff629afa5b01d4b0c5c58e6c6c1.8628971441.png", id:"ladowanie"},
+		{src:"http://eu2.madsone.com/c/4206615cbd65bda8e58ca55e8ac8aeaab9581fa3.1928971441.jpg", id:"loader"},
+		{src:"http://eu2.madsone.com/c/62fbfc2b788408e6c270a4edad4da7f7b0d83a7d.5138971441.png", id:"next_is_now"},
+		{src:"http://eu2.madsone.com/c/ca47d787a2ee9a5b5b2a0bfc9eecbc67070b046b.3438971441.png", id:"next_is_now_black"},
+		{src:"http://eu2.madsone.com/c/c43874a14978b15cefcd439739f8477413048550.8638971441.png", id:"packshot_l"},
+		{src:"http://eu2.madsone.com/c/6bfe9b8ebb55c69b6c71d26dd7a3799e3ca67970.7938971441.png", id:"phone_blank_all"},
+		{src:"http://eu2.madsone.com/c/9fb500dd80456ee81e51913c67ad48e7ea9cd9ba.3548971441.png", id:"s6_black"},
+		{src:"http://eu2.madsone.com/c/4b015ffdf07bf9137da20f76315d363535f20724.7958971441.png", id:"s6_white"},
+		{src:"http://eu2.madsone.com/c/be71eee3722782c638aef9f917adfb3adc189a73.8168971441.png", id:"samsung_black"},
+		{src:"http://eu2.madsone.com/c/338f1ac2644fff894669d438531d88ea41031e3f.6368971441.png", id:"samsung_white"}
 	]
 };
-
+​
 
 
 // symbols:
