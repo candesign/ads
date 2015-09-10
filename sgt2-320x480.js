@@ -24,14 +24,9 @@ lib.properties = {
 		{src:"http://eu2.madsone.com/c/4b015ffdf07bf9137da20f76315d363535f20724.7958971441.png", id:"s6_white"},
 		{src:"http://eu2.madsone.com/c/be71eee3722782c638aef9f917adfb3adc189a73.8168971441.png", id:"samsung_black"},
 		{src:"http://eu2.madsone.com/c/338f1ac2644fff894669d438531d88ea41031e3f.6368971441.png", id:"samsung_white"}
-	]
-};
-​
-
+	]};
 
 // symbols:
-
-
 
 (lib._57 = function() {
 	this.initialize(img._57);
